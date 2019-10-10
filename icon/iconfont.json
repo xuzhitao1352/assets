@@ -1,0 +1,44 @@
+{
+  "id": "1451449",
+  "name": "assets",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1117",
+      "name": "剪切",
+      "font_class": "jianqie",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "593507",
+      "name": "下",
+      "font_class": "weibiaoti35",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "2301640",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "2404486",
+      "name": "剪切",
+      "font_class": "jianqie1",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "3461605",
+      "name": "写字楼",
+      "font_class": "xiezilou",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    }
+  ]
+}
